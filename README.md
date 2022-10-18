@@ -1,131 +1,59 @@
-<p align="center">
-  <a href="https://docsify.js.org">
-    <img alt="docsify" src="./docs/_media/icon.svg">
+# docsify-themeable
+
+[![NPM](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://www.npmjs.com/package/docsify-themeable)
+[![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/jhildenbiddle/docsify-themeable/Build/master?label=checks&style=flat-square)](https://github.com/jhildenbiddle/docsify-themeable/actions?query=branch%3Amaster+)
+[![Codacy grade](https://img.shields.io/codacy/grade/39220ba530f24dfc9443b47f2efea5c9?style=flat-square)](https://app.codacy.com/gh/jhildenbiddle/docsify-themeable/dashboard)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE)
+[![jsDelivr](https://data.jsdelivr.com/v1/package/npm/docsify-themeable/badge)](https://www.jsdelivr.com/package/npm/docsify-themeable)
+[![Sponsor this project](https://img.shields.io/static/v1?style=flat-square&label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jhildenbiddle)
+
+Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsify.js.org). Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
+
+- [Homepage](https://jhildenbiddle.github.io/docsify-themeable) - Live demo, documentation, and theme previews
+
+## Screenshots
+
+#### Simple Theme
+
+<p float="left">
+  <a href="https://jhildenbiddle.github.io/docsify-themeable">
+    <img alt="Simple theme cover page" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-cover.png" width="49%">
+    <img alt="Simple theme content" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-content.png" width="49%">
   </a>
 </p>
 
-<p align="center">
-  A magical documentation site generator.
-</p>
+#### Simple Dark Theme
 
-<p align="center">
-  <a href="#backers"><img alt="Backers on Open Collective" src="https://opencollective.com/docsify/backers/badge.svg?style=flat-square"></a>
-  <a href="#sponsors">
-    <img alt="Sponsors on Open Collective" src="https://opencollective.com/docsify/sponsors/badge.svg?style=flat-square"></a>
-  <a><img src="https://github.com/docsifyjs/docsify/workflows/Unit%20tests%20Suite/badge.svg?branch=develop&amp;event=push" alt="Unit tests Suite"></a>
-  <a><img src="https://github.com/docsifyjs/docsify/workflows/Linting%20Checks/badge.svg?branch=develop&amp;event=push" alt="Linting Checks"></a>
-  <a><img src="https://github.com/docsifyjs/docsify/workflows/Testing%20the%20e2e%20test%20suites/badge.svg?branch=develop&amp;event=push" alt="Testing the e2e test suites"></a>
-  <a href="https://www.npmjs.com/package/docsify"><img alt="npm" src="https://img.shields.io/npm/v/docsify.svg?style=flat-square"></a>
-  <a href="https://github.com/QingWei-Li/donate"><img alt="donate" src="https://img.shields.io/badge/%24-donate-ff69b4.svg?style=flat-square"></a>
-  <a href="https://discord.gg/3NwKFyR"><img alt="Join Discord community and chat about Docsify" src="https://img.shields.io/discord/713647066802421792.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&cacheSeconds=60"></a>
-  <a href="https://gitpod.io/#https://github.com/docsifyjs/docsify"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
-</p>
-
-<p align="center">Gold Sponsor via <a href="https://opencollective.com/docsify">Open Collective</a></p>
-
-<p align="center">
-  <a href="https://opencollective.com/docsify/order/3254">
-    <img src="https://opencollective.com/docsify/tiers/gold-sponsor.svg?avatarHeight=36">
+<p float="left">
+  <a href="https://jhildenbiddle.github.io/docsify-themeable">
+    <img alt="Simple dark theme cover page" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-dark-cover.png" width="49%">
+    <img alt="Simple dark theme content" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-dark-content.png" width="49%">
   </a>
 </p>
 
-## Links
+> 💡 Like docsify-themeable? Check out [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs/) for tabbed content, [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads/) for EthicalAds integration, and [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit/) for live JavaScript REPLs!
 
-- [`develop` branch preview](https://docsifyjs.netlify.com/)
-- [Documentation](https://docsify.js.org)
-- [CLI](https://github.com/docsifyjs/docsify-cli)
-- CDN: [UNPKG](https://unpkg.com/docsify/) | [jsDelivr](https://cdn.jsdelivr.net/npm/docsify/) | [cdnjs](https://cdnjs.com/libraries/docsify)
-- [Awesome docsify](https://github.com/docsifyjs/awesome-docsify)
-- [Community chat](https://discord.gg/3NwKFyR)
+## Installation & Options
 
-## Features
+See the [documentation site](https://jhildenbiddle.github.io/docsify-themeable) for details.
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Compatible with IE11
-- Support SSR ([example](https://github.com/docsifyjs/docsify-ssr-demo))
-- Support embedded files
+## Sponsorship
 
-## Quick start
+A [sponsorship](https://github.com/sponsors/jhildenbiddle) is more than just a way to show appreciation for the open-source authors and projects we rely on; it can be the spark that ignites the next big idea, the inspiration to create something new, and the motivation to share so that others may benefit.
 
-Look at [this tutorial](https://docsify.js.org/#/quickstart)
+If you benefit from this project, please consider lending your support and encouraging future efforts by [becoming a sponsor](https://github.com/sponsors/jhildenbiddle).
 
-[![Edit 307qqv236](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/307qqv236)
+Thank you! 🙏🏻
 
-## Showcase
+## Contact & Support
 
-These projects are using docsify to generate their sites. Pull requests welcome :blush:
-
-Move to [awesome-docsify](https://github.com/docsifyjs/awesome-docsify#showcase)
-
-## Similar projects
-
-| Project                                          | Description                              |
-| ------------------------------------------------ | ---------------------------------------- |
-| [docute](https://github.com/egoist/docute)       | 📜 Effortlessly documentation done right |
-| [docpress](https://github.com/docpress/docpress) | Documentation website generator          |
-
-## Contributing
-
-### Online one-click setup for Contributing
-
-You can use Gitpod(A free online VS Code-like IDE) for contributing. With single click it'll launch a workspace and automatically:
-
-- clone the docsify repo.
-- install the dependencies.
-- start `npm run dev`.
-
-So that you can start straight away.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/docsifyjs/docsify)
-
-- Fork it!
-- Create your feature branch: `git checkout -b my-new-feature`
-- Commit your changes: `git add . && git commit -m 'Add some feature'`
-- Push to the branch: `git push origin my-new-feature`
-- Submit a pull request
-
-## Development
-
-```bash
-npm run bootstrap && npm run dev
-```
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/docsify#backers)]
-
-<a href="https://opencollective.com/docsify#backers" target="_blank"><img src="https://opencollective.com/docsify/backers.svg?width=890"></a>
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/docsify#silver-sponsors)]
-
-<a href="https://opencollective.com/docsify/silver-sponsors/0/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/0/avatar.svg"></a>
-<a href="https://opencollective.com/docsify/silver-sponsors/1/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/1/avatar.svg"></a>
-<a href="https://opencollective.com/docsify/silver-sponsors/2/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/2/avatar.svg"></a>
-<a href="https://opencollective.com/docsify/silver-sponsors/3/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/3/avatar.svg"></a>
-<a href="https://opencollective.com/docsify/silver-sponsors/4/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/4/avatar.svg"></a>
-<a href="https://opencollective.com/docsify/silver-sponsors/5/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/5/avatar.svg"></a>
-<a href="https://opencollective.com/docsify/silver-sponsors/6/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/6/avatar.svg"></a>
-<a href="https://opencollective.com/docsify/silver-sponsors/7/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/7/avatar.svg"></a>
-<a href="https://opencollective.com/docsify/silver-sponsors/8/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/8/avatar.svg"></a>
-<a href="https://opencollective.com/docsify/silver-sponsors/9/website" target="_blank"><img src="https://opencollective.com/docsify/silver-sponsors/9/avatar.svg"></a>
-
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/docsifyjs/docsify/graphs/contributors"><img src="https://opencollective.com/docsify/contributors.svg?width=890" /></a>
+- Follow 👨🏻‍💻 **@jhildenbiddle** on [Twitter](https://twitter.com/jhildenbiddle) and [GitHub](https://github.com/jhildenbiddle) for announcements
+- Create a 💬 [GitHub issue](https://github.com/jhildenbiddle/docsify-themeable/issues) for bug reports, feature requests, or questions
+- Add a ⭐️ [star on GitHub](https://github.com/jhildenbiddle/docsify-themeable) and 🐦 [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-themeable&hashtags=css,developers,frontend,javascript) to promote the project
+- Become a 💖 [sponsor](https://github.com/sponsors/jhildenbiddle) to support the project and future efforts
 
 ## License
 
-[MIT](LICENSE)
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE) for details.
 
-## Special Thanks
-
-_Vercel_ has given us a Pro account.
-
-<a href="https://vercel.com/?utm_source=docsifyjsdocs" target="_blank"><img src="docs/_media/vercel_logo.svg" width="100px"></a>
+Copyright (c) John Hildenbiddle ([@jhildenbiddle](https://twitter.com/jhildenbiddle))

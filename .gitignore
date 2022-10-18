@@ -1,10 +1,13 @@
-*.log
-.DS_Store
-.idea
-__diff_output__
-lib/
+# Folders
+build
+coverage
+dist
 node_modules
-themes/
 
-# exceptions
-!.gitkeep
+# Files
+*.log
+
+# OS
+._*
+.cache
+.DS_Store
