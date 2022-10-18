@@ -1,13 +1,11 @@
-# docsify-themeable
+# F4 Reloaded
 
-> A delightfully simple theme system for [docsify.js](https://docsify.js.org)
+> Fabrik for Joomla reloaded for Joomla 4
 
-- Customize using CSS custom properties
-- Zero packages to install or build
-- Improved desktop and mobile experience
-- Multiple themes available
-- Legacy browser support (IE11+)
+- Clean
+- Faster
+- Less issues
+- Community supported
 
 [Get Started](introduction)
-[Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
-[GitHub](https://github.com/jhildenbiddle/docsify-themeable)
+[GitHub](https://github.com/joomlahenk/fabrik)
