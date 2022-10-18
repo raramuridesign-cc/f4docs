@@ -1,6 +1,6 @@
 - Getting started
 
-  - [Installation](quickstart.md)
+  - [Quickstart](quickstart.md)
 
 - Bugs and Issues
 
