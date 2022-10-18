@@ -32,6 +32,6 @@ In progress
 
 ## License
 
-This project is licensed under the [MIT license](https://github.com/joomlahenk/fabrik).
+This project is licensed under the [GNU General Public License version 2](https://github.com/joomlahenk/fabrik).
 
 Copyright (c) F4-Reloaded Community
