@@ -9,7 +9,7 @@ Fabrik is an open source Joomla! application builder that allows you to collect 
 
 With Fabrik you can create applications that range in complexity from simple contact forms to a job application site or bug tracking system.
 
-## How easy is it to create a Fabrik Application (top)
+## How easy is it to create a Fabrik Application
 
 Fabrik has a broad set of functions, both basic and advanced, and with these it is possible to create a broad range of applications.
 

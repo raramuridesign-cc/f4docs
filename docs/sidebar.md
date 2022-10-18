@@ -10,8 +10,7 @@
 - [Integration with Joomla extensions](options.md)
 - [Designers](options.md)
 - [Developers](options.md)
-- [Things You Can Do for Fabrik](options.md)
-- [Help in other languages](options.md)
+- [How can you help?](help.md)
 - **Links**
 - [![Github](assets/img/github.svg)Github](https://github.com/joomlahenk/fabrik)
 - [![Discord](assets/img/github.svg)Join Discord](https://discord.gg/vFV6VaRH)
