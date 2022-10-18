@@ -1,10 +1,15 @@
-## docsify
+## F4 Documentation
 
-> A magical documentation site generator.
+> This is a work in progress
 
 ## What it is
 
-docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+Fabrik is an open source Joomla! application builder that allows you to collect information from users through forms, send it to a MySQL database table, and then be able to present viewers with this information in various ways including:
+
+Lists - which display a list of all your records submitted through a particular form.
+Visualizations - which take data from your database and visualize this through charts, maps, calendars and more.
+
+With Fabrik you can create applications that range in complexity from simple contact forms to a job application site or bug tracking system.
 
 See the [Quick start](quickstart.md) guide for more details.
 
@@ -21,11 +26,9 @@ See the [Quick start](quickstart.md) guide for more details.
 
 ## Examples
 
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
 
 ## Donate
 
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
 
 ## Community
 
@@ -33,6 +36,3 @@ Users and the development team are usually in the [Discord server](https://disco
 
 ## Special Thanks
 
-_Vercel_ has given us a Pro account.
-
-<a href="https://vercel.com/?utm_source=docsifyjsdocs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" width="100px"></a>
