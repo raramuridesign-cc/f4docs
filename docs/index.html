@@ -21,56 +21,11 @@
 <body>
    <div id="app"></div>
    <script>
-        // Docsify
-        window.$docsify = {
-            // GENERAL
-            // -----------------------------------------------------------------
-            name       : 'docsify-themeable',
-            repo       : 'https://github.com/jhildenbiddle/docsify-themeable',
-            coverpage  : 'coverpage.md',
-            homepage   : 'introduction.md',
-            loadSidebar: 'sidebar.md',
-
-            // NAVIGATION
-            // -----------------------------------------------------------------
-            alias: {
-                '.*?/changelog': 'https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/CHANGELOG.md',
-            },
-            auto2top   : true,
-            maxLevel   : 3,
-            subMaxLevel: 3,
-
-            // PLUGINS
-            // -----------------------------------------------------------------
-            ethicalAds: {
-                eaPublisher: 'jhildenbiddle-github-io',
-            },
-            executeScript: true,
-            search: {
-                depth      : 3,
-                noData     : 'No results!',
-                placeholder: 'Search...'
-            },
-            plugins: [
-                // Restores initial <title>
-                function persistTitle(hook, vm) {
-                    var titleElm = document.querySelector('title');
-                    var rootTitle = titleElm && titleElm.textContent;
-                    var pageTitlePrefix = window.$docsify.name ? window.$docsify.name + ' - ' : '';
-
-                    if (rootTitle) {
-                        hook.doneEach(function () {
-                            var currentTitle = titleElm.textContent;
-                            var isRoot = !/\/[a-z]/.test(location.hash);
-                            var newTitle = isRoot ? rootTitle : pageTitlePrefix + currentTitle;
-
-                            titleElm.textContent = newTitle;
-                        });
-                    }
-                }
-            ]
-        };
-    </script>
+     // Docsify Configuration
+     window.$docsify = {
+        maxLevel: 4,
+     };
+   </script>
    <!-- Required -->
    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
