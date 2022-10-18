@@ -1,30 +1,14 @@
-- Getting started
-
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
-
-- Customization
-
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
-
-- HELP
+<!-- markdownlint-disable-next-line first-line-heading -->
+- [Introduction](introduction)
+- [Quick Start](quick-start)
+- [Themes](themes)
+- [Customization](customization)
+- [Options](options)
+- [Plugin authors](plugin-authors)
+- [Markdown](markdown)
+- [Changelog](changelog)
+- **Links**
+- [![Code](assets/img/code.svg)Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
+- [![Github](assets/img/github.svg)Github](https://github.com/jhildenbiddle/docsify-themeable)
+- [![NPM](assets/img/npm.svg)NPM](https://www.npmjs.com/package/docsify-themeable)
+- [![Twitter](assets/img/twitter.svg)@jhildenbiddle](http://twitter.com/jhildenbiddle)
