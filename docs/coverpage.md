@@ -1,10 +1,9 @@
 # F4 Reloaded
 
-> Fabrik for Joomla reloaded for Joomla 4
+> Fabrik Reloaded for Joomla 4
 
-- Clean
+- Cleaner
 - Faster
-- Less issues
 - Community supported
 
 [Get Started](introduction)

@@ -9,6 +9,8 @@
 - [Joomla Plugins and Modules](options.md)
 - [Integration with Joomla extensions](options.md)
 - [Designers](options.md)
+	- [Designers](options.md)
+	- [Designers](options.md)
 - [Developers](options.md)
 - [How can you help?](help.md)
 - **Links**
