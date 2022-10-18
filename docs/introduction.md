@@ -1,14 +1,5 @@
 # Introduction
 
-[![NPM](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://www.npmjs.com/package/docsify-themeable)
-[![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/jhildenbiddle/docsify-themeable/Build/master?label=checks&style=flat-square)](https://github.com/jhildenbiddle/docsify-themeable/actions?query=branch%3Amaster+)
-[![Codacy grade](https://img.shields.io/codacy/grade/39220ba530f24dfc9443b47f2efea5c9?style=flat-square)](https://app.codacy.com/gh/jhildenbiddle/docsify-themeable/dashboard)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE)
-[![jsDelivr](https://data.jsdelivr.com/v1/package/npm/docsify-themeable/badge)](https://www.jsdelivr.com/package/npm/docsify-themeable)
-[![Sponsor this project](https://img.shields.io/static/v1?style=flat-square&label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jhildenbiddle)
-[![Add a star on GitHub](https://img.shields.io/github/stars/jhildenbiddle/docsify-themeable?style=social)](https://github.com/jhildenbiddle/docsify-themeable)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-themeable&hashtags=css,docsify,developers,frontend)
-
 ## Features
 
 - **Flexible theme system based on CSS custom properties**<br>

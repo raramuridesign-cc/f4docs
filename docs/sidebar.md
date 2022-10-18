@@ -14,4 +14,4 @@
 - [Help in other languages](options.md)
 - **Links**
 - [![Github](assets/img/github.svg)Github](https://github.com/joomlahenk/fabrik)
-- [![Join Discord](https://discord.gg/vFV6VaRH)
+- [![Join Discord](assets/img/github.svg)[Join Discord](https://discord.gg/vFV6VaRH)
