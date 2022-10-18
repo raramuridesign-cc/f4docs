@@ -1,50 +1,39 @@
 # Introduction
 
-## Features
+## Overview
 
-- **Flexible theme system based on CSS custom properties**<br>
-  Theme settings are presented as a flat list of logically-named [CSS custom properties](customization). There's no need to navigate or modify complex CSS, allowing changes to be made quickly and confidently.
+Fabrik is an open source Joomla! application builder that allows you to collect information from users through forms, send it to a MySQL database table, and then be able to present viewers with this information in various ways including:
 
-- **No packages to install or static files to build**<br>
-  All processing is done in the browser, removing the need for CSS preprocessors and other build tools. Just link to a theme, then customize by setting [theme-related properties](customization). That's it.
+- Lists - which display a list of all your records submitted through a particular form.
+- Visualizations - which take data from your database and visualize this through charts, maps, calendars and more.
 
-- **Multiple themes available**<br>
-  Use a theme as-is, or as a starting point for something completely new. All themes share the same customizable properties, making it easy mix styles from different themes.
+With Fabrik you can create applications that range in complexity from simple contact forms to a job application site or bug tracking system.
 
-- **Improved desktop and mobile experience**<br>
-  Enhancements that are unique to docsify-themeable—along with docsify- and browser-related bug fixes—provide a more enjoyable and trouble-free experience for site authors and visitors.
 
-  - [Extensive customization](customization)
-  - [PrismJS theme compatibility](customization#prismjs)
-  - [Module scale typography](customization#base)
-  - [Plugin customization](customization#plugin-styles)
-  - [Ready transition](options#readytransition)
-  - [Responsive tables](options#responsivetables)
+## How easy is it to create a Fabrik Application (top)
 
-- **Legacy browser support (IE11+)**<br>
-  Thoroughly tested and fully compatible with legacy browsers, including support for CSS custom properties (courtesy of a handy [ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill) developed specifically for docsify-themeable).
+Fabrik has a broad set of functions, both basic and advanced, and with these it is possible to create a broad range of applications.
 
-?> Like docsify-themeable? Be sure to check out [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs/) for tabbed content, [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads/) for EthicalAds integration, and [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit/) for live JavaScript REPLs!
+If you are non-technical and only want a simple application to store and list data, then you can create this purely from the Fabrik administrator interface without writing any PHP or Javascript code.
+
+If you are reasonably technical, and prepared to spend the time learning about Fabrik (from the wiki and other resources on this site) and to write some small pieces of PHP and / or Javascript, you can create sophisticated applications and visualizations. To get prompt support to help you along the learning curve and to get any issues to come across looked at more quickly, a Professional subscription to Fabrikar is recommended.
+
+However, Fabrik cannot possibly provide all the functionality that is potentially possible with PHP, Javascript and MySQL, so there will be some applications which are just not possible to build using Fabrik. If you are thinking about a using Fabrik for creating a complex application, it is important to think ahead about the design of your database, lists, forms, etc. and to reduce the risk of starting your development and then finding that Fabrik is unsuitable, the Fabrikar consulting team can review your design.
+
 
 ## Sponsorship
 
-A [sponsorship](https://github.com/sponsors/jhildenbiddle) is more than just a way to show appreciation for the open-source authors and projects we rely on; it can be the spark that ignites the next big idea, the inspiration to create something new, and the motivation to share so that others may benefit.
-
-If you benefit from this project, please consider lending your support and encouraging future efforts by [becoming a sponsor](https://github.com/sponsors/jhildenbiddle).
-
-Thank you! 🙏🏻
-
-<iframe src="https://github.com/sponsors/jhildenbiddle/button" title="Sponsor jhildenbiddle" height="35" width="116" style="border: 0; margin: 0;"></iframe>
+In progress
 
 ## Contact & Support
 
-- Follow 👨🏻‍💻 **@jhildenbiddle** on [Twitter](https://twitter.com/jhildenbiddle) and [GitHub](https://github.com/jhildenbiddle) for announcements
-- Create a 💬 [GitHub issue](https://github.com/jhildenbiddle/docsify-themeable/issues) for bug reports, feature requests, or questions
-- Add a ⭐️ [star on GitHub](https://github.com/jhildenbiddle/docsify-themeable) and 🐦 [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-themeable&hashtags=css,developers,frontend,javascript) to promote the project
-- Become a 💖 [sponsor](https://github.com/sponsors/jhildenbiddle) to support the project and future efforts
+- Follow on [GitHub](https://github.com/joomlahenk/fabrik) for announcements
+- Create a 💬 [GitHub issue](https://github.com/joomlahenk/fabrik/issues) for bug reports, feature requests, or questions
+- Add a ⭐️ [star on GitHub](https://github.com/joomlahenk/fabrik) 
+- Become a 💖 [sponsor](#) to support the project and future efforts
 
 ## License
 
-This project is licensed under the [MIT license](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE).
+This project is licensed under the [MIT license](https://github.com/joomlahenk/fabrik).
 
-Copyright (c) John Hildenbiddle ([@jhildenbiddle](https://twitter.com/jhildenbiddle))
+Copyright (c) F4-Reloaded Community
