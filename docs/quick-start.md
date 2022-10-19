@@ -47,7 +47,7 @@ TODO
 TODO
 
 
-## How to uninstall Fabrik Reloaded
+## Uninstalling Fabrik Reloaded
 
 When unistalling, please be aware that ALL data is removed. Ensure you have a backup before you proceeed.
 
