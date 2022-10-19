@@ -23,13 +23,6 @@ However, Fabrik cannot possibly provide all the functionality that is potentiall
 
 In progress
 
-## Contact & Support
-
-- Follow on [GitHub](https://github.com/joomlahenk/fabrik) for announcements
-- Create a 💬 [GitHub issue](https://github.com/joomlahenk/fabrik/issues) for bug reports, feature requests, or questions
-- Add a ⭐️ [star on GitHub](https://github.com/joomlahenk/fabrik) 
-- Become a 💖 [sponsor](#) to support the project and future efforts
-
 ## License
 
 This project is licensed under the [GNU General Public License version 2](https://github.com/joomlahenk/fabrik).

@@ -9,11 +9,14 @@
 
 ### Server environment
 
-- PHP 8.x.x
-- MYSQLi or MARIADB
-- GD or Imagemagick library
+- PHP 8.x.x - preferable is PHP 8.1.x
+- Database: MYSQLi or MARIADB
+- Imahe library: GD or Imagemagick
+- max_execution_time = 90
+- max_input_time = 90
 - memory_limit = 512MB
 - max_input_vars = 5000
+- post_max_size = 256MB
 - upload_limit = 256MB
 
 

@@ -1,6 +1,14 @@
 <!-- markdownlint-disable-next-line first-line-heading -->
 - [Introduction](introduction)
 - [Getting Started](quick-start)
+- [First steps](a.md)
+- [Troubleshooting and Bug Reporting](b.md)
+- [Fabrik Core](c.md)
+- [Plugins](d.md)
+- [Joomla Plugins and Modules](e.md)
+- [Integration with Joomla extensions](f.md)
+- [Designers](g.md)
+- [Developers](j.md)
 - [How can you help?](help.md)
 - [Contact & Support](contact.md)
 - **Links**
