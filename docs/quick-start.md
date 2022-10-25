@@ -11,7 +11,7 @@
 
 - PHP 8.x.x - preferable is PHP 8.1.x
 - Database: MYSQLi or MARIADB
-- Imahe library: GD or Imagemagick
+- Image library: GD or Imagemagick
 - max_execution_time = 90
 - max_input_time = 90
 - memory_limit = 512MB
